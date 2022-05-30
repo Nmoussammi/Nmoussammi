@@ -2,57 +2,90 @@
 ## I'm a PhD student, and Developer !!
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Learn more about web3
->  Computer Science student at [1337](1337.ma) \
->  Interested in Cloud Computing, Devops.
+- 🥅 2022 Goals: Learn more about web3 
+<br>
+
+[![nmoussam's 42 stats](https://badge.mediaplus.ma/kettlebells/nmoussam)](https://github.com/Nmoussammi/badge42)
+
+<br>
+┌──┤ WHOAMI ├─────────▰▰▰<br>
+│ <br>
+├─▣ Computer Science student at [1337](1337.ma)<br>
+├─▣ PhD student at [FSR](http://www.fsr.ac.ma/)<br>
+├─▣ Master's degree [ENSIAS](http://ensias.um5.ac.ma/)<br>
+├─▣ Interested in Cloud Computing, Devops, Web Development. <br>
+├─▣ From Casablanca Morocco <br>
+│<br>
+└───────────────────────────────▰▰▰
+
+
 
 ### Connect with me:
 
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](www.linkedin.com/in/nouhaila-moussammi/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](www.linkedin.com/in/nouhaila-moussammi/#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/nouhaila.moussammi/#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/nouhaila.moussammi/#gh-dark-mode-only)
+├─◈ <a href="https://www.linkedin.com/in/nouhaila-moussammi">LinkedIn</a><br>
+├─◈ <a href="https://www.instagram.com/nouhaila.moussammi">Instagram</a><br>
+├─◈ Discord: nmoussam#7557
 
+┌──┤ PROJECTS ├───────▰▰▰<br>
+│<br>
+├─◈ <a href="https://github.com/Nmoussammi/Libft">libft</a><br>
+├─◈ <a href="https://github.com/Nmoussammi/Get_Next_Line">get_next_line</a><br>
+├─◈ <a href="https://github.com/Nmoussammi/ft_printf">ft_printf</a><br>
+<!-- ├─◈ <a href="https://github.com/achrafelkhnissi/1337/tree/master/42curses/Born2beRoot">Born2beRoot</a> -->
+├─◈ <a href="https://github.com/Nmoussammi/minitalk">minitalk</a><br>
+<!-- ├─◈ <a href="https://github.com/achrafelkhnissi/1337/tree/master/42curses/so_long">so_long</a> -->
+├─◈ <a href="https://github.com/Nmoussammi/Portfolio">Portfolio</a><br>
+├─◈ <a href="https://github.com/Nmoussammi/Simple-Website-Design">Simple Website Design</a><br>
+├─◈ <a href="https://github.com/Nmoussammi/nft-card-component">Nft Card Component</a> <br>
+│<br>
+└───────────────────────────────▰▰▰
+<br>
+
+  <p align="center">
+	<a href="mailto:nmoussammi@gmail.com">
+		<img alt="Feel free to contact me" src="https://img.shields.io/badge/-Ask_me_anything-blue?style=flat&logo=Gmail&logoColor=white&link=mailto:nmoussammi@gmail.com" />
+	</a>
+	<span> * </span>
+	<a href="https://www.linkedin.com/in/nouhaila-moussammi/">
+		<img alt="Linkedin Profile" src="https://img.shields.io/badge/-Linkedin_Profile-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nouhaila-moussammi/" />
+	</a>
+	<span> * </span>
+<!--   	<a href="https://https://discord.com/users/nmoussam#7557">
+		<img alt="Twitter Profile" src="https://img.shields.io/badge/-Linkedin_Profile-0072b1?style=flat&logo=Discord&logoColor=white&link=https://https://discord.com/users/nmoussam#7557" />
+	</a> -->
+	<a href="https://https://www.discord.com/users/nmoussam#7557">
+		<img alt="Twitter Profile" src="https://badgen.net/badge/icon/discord?icon=discord&label" />
+	</a>
+</p>
+
+--------------
 ### Languages and Tools:
-[![nmoussam's 42 stats](https://badge.mediaplus.ma/kettlebells/nmoussam)](https://github.com/oakoudad/badge42)
 
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][cssplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][jsplaylist]
-[<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />][reactplaylist]
-[<img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="Deno" width="26px" src="./img/deno-light.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-light-mode-only)
-[<img align="left" alt="Terminal" width="26px" src="./img/terminal-light.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-light-mode-only)
-[<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />](https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt#gh-dark-mode-only)
+
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
+<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
+<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
+
+
+
 
 <br />
-<br />
+
 
 ---
 
 
-### 📕 Latest Blog Posts
+---------------
+| [![Nmoussammi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nmoussammi&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/Nmoussammi?tab=repositories) | [![Nmoussammi's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nmoussammi&layout=compact&hide_border=true&theme=jolly)](https://github.com/Nmoussammi?tab=repositories) |
+|:-:|:-:|
 
-<!-- BLOG-POST-LIST:START -->
-- [Getting Started with MongoDB &amp; Mongoose](https://dev.to/codestackr/getting-started-with-mongodb-mongoose-2h6a)
-- [How To Pass Application Tracking Systems &lpar;ATS&rpar; &amp; Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions &lpar;RegEx&rpar; Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-<!-- BLOG-POST-LIST:END -->
+<p align="center">
+	<img alt="Nmoussammi's visitors" src="https://komarev.com/ghpvc/?username=Nmoussammi&color=8c36db&style=flat&label=visitors" />
+	<img alt="Nmoussammi's followers" src="https://img.shields.io/github/followers/Nmoussammi?color=blueviolet" />
+	<img alt="Nmoussammi's stars" src="https://img.shields.io/github/stars/Nmoussammi?color=blueviolet" />
+</p>
 
-➡️ [more blog posts...](https://codestackr.com)
-
----
+---------------
