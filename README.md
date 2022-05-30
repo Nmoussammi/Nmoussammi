@@ -1,9 +1,9 @@
 # Hi there, I'm  Nouhaila Moussammi 👋 
 ## I'm a PhD student, and Developer !!
 
-- 🌱 I’m currently learning everything 🤣
+<!-- - 🌱 I’m currently learning everything 
 - 🥅 2022 Goals: Learn more about web3 
-<br>
+<br> -->
 
 ![nmoussam's 42 stats](https://badge.mediaplus.ma/kettlebells/nmoussam)
 
