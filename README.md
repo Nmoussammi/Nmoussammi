@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Learn more about web3
+>  Computer Science student at [1337](1337.ma) \
+>  Interested in Cloud Computing, Devops.
 
 ### Connect with me:
 
