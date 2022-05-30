@@ -5,7 +5,7 @@
 - 🥅 2022 Goals: Learn more about web3 
 <br>
 
-[![nmoussam's 42 stats](https://badge.mediaplus.ma/kettlebells/nmoussam)](https://github.com/Nmoussammi/badge42)
+[![nmoussam's 42 stats](https://badge.mediaplus.ma/kettlebells/nmoussam)]
 
 <br>
 ┌──┤ WHOAMI ├─────────▰▰▰<br>
