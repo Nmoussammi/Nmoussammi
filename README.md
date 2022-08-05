@@ -33,6 +33,7 @@
 ├─◈ <a href="https://github.com/Nmoussammi/ft_printf">ft_printf</a><br>
 <!-- ├─◈ <a href="https://github.com/achrafelkhnissi/1337/tree/master/42curses/Born2beRoot">Born2beRoot</a> -->
 ├─◈ <a href="https://github.com/Nmoussammi/minitalk">minitalk</a><br>
+├─◈ <a href="https://github.com/Nmoussammi/so_long">So_long</a><br>
 <!-- ├─◈ <a href="https://github.com/achrafelkhnissi/1337/tree/master/42curses/so_long">so_long</a> -->
 ├─◈ <a href="https://github.com/Nmoussammi/Portfolio">Portfolio</a><br>
 ├─◈ <a href="https://github.com/Nmoussammi/Simple-Website-Design">Simple Website Design</a><br>
