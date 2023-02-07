@@ -8,9 +8,9 @@
 <!-- # Hi 👋  I'm  Nouhaila Moussammi 
 ## I'm a PhD Researcher in Mobile Edge Computing and Front-End Developer !! -->
 
-![nmoussam's 42 stats](https://badge.mediaplus.ma/kettlebells/nmoussam)
 
-<img align="right" alt="logo" width="400" src="https://badge.mediaplus.ma/kettlebells/nmoussam"><br>
+
+<img align="right" alt="logo" width="400" src="https://badge.mediaplus.ma/blue/nmoussam"><br>
 <br>
 ┌──┤ WHOAMI ├─────────▰▰▰<br>
 <br>
@@ -22,27 +22,34 @@
 <br>
 └───────────────────────────────▰▰▰
 
-
-
 ### Connect with me:
 
-├─◈ <a href="https://www.linkedin.com/in/nouhaila-moussammi">LinkedIn</a><br>
-├─◈ <a href="https://www.instagram.com/nouhaila.moussammi">Instagram</a><br>
-├─◈ Discord: nmoussam#7557
+─◈ <a href="https://www.linkedin.com/in/nouhaila-moussammi">LinkedIn</a><br>
+─◈ <a href="https://www.instagram.com/nouhaila.moussammi">Instagram</a><br>
+─◈ Discord: nmoussam#7557
 
-┌──┤ PROJECTS ├───────▰▰▰<br>
-│<br>
-├─◈ <a href="https://github.com/Nmoussammi/Libft">libft</a><br>
-├─◈ <a href="https://github.com/Nmoussammi/Get_Next_Line">get_next_line</a><br>
-├─◈ <a href="https://github.com/Nmoussammi/ft_printf">ft_printf</a><br>
-<!-- ├─◈ <a href="https://github.com/achrafelkhnissi/1337/tree/master/42curses/Born2beRoot">Born2beRoot</a> -->
-├─◈ <a href="https://github.com/Nmoussammi/minitalk">minitalk</a><br>
-├─◈ <a href="https://github.com/Nmoussammi/so_long">So_long</a><br>
-<!-- ├─◈ <a href="https://github.com/achrafelkhnissi/1337/tree/master/42curses/so_long">so_long</a> -->
-├─◈ <a href="https://github.com/Nmoussammi/Portfolio">Portfolio</a><br>
-├─◈ <a href="https://github.com/Nmoussammi/Simple-Website-Design">Simple Website Design</a><br>
-├─◈ <a href="https://github.com/Nmoussammi/nft-card-component">Nft Card Component</a> <br>
-│<br>
+┌──┤ PROJECTS 42├───────▰▰▰<br>
+<br>
+─◈ <a href="https://github.com/Nmoussammi/Libft">Libft</a><br>
+─◈ <a href="https://github.com/Nmoussammi/Get_Next_Line">Get_next_line</a><br>
+─◈ <a href="https://github.com/Nmoussammi/ft_printf">Ft_printf</a><br>
+├─◈ <a href="https://github.com/achrafelkhnissi/1337/tree/master/42curses/Born2beRoot">Born2beRoot</a>
+─◈ <a href="https://github.com/Nmoussammi/minitalk">Minitalk</a><br>
+─◈ <a href="https://github.com/Nmoussammi/so_long">So_long</a><br>
+─◈ <a href="https://github.com/Nmoussammi/Push_swap">Push_swap</a><br>
+─◈ <a href="https://github.com/Nmoussammi/Philosopher">Philosopher</a><br>
+─◈ <a href="https://github.com/Nmoussammi/Minishell">Minishell</a><br>
+─◈ <a href="https://github.com/Nmoussammi/Cub3d">Cub3d</a><br>
+<br>
+└───────────────────────────────▰▰▰
+<br>
+┌──┤ MY PROJECTS├───────▰▰▰<br>
+<br>
+─◈ <a href="https://github.com/Nmoussammi/Portfolio">Portfolio</a><br>
+─◈ <a href="https://github.com/Nmoussammi/Simple-Website-Design">Simple Website Design</a><br>
+─◈ <a href="https://github.com/Nmoussammi/nft-card-component">Nft Card Component</a> <br>
+<!-- add MEC Projects-->
+<br>
 └───────────────────────────────▰▰▰
 <br>
 
