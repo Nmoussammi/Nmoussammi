@@ -1,15 +1,17 @@
-# Hi there, I'm  Nouhaila Moussammi 👋 
-## I'm a PhD student, and Front-End Developer !!
-
 <!-- - 🌱 I’m currently learning everything 
 - 🥅 2022 Goals: Learn more about web3 
 <br> -->
 <img align="center" alt="logo" width="1000" src="https://github.com/Nmoussammi/Nmoussammi/blob/main/Untitled%20design.gif"><br>
+
+<h1 align="center">Hi 👋 I'm  Nouhaila Moussammi </h1>
+<h3 align="center">A PhD Researcher in Mobile Edge Computing and Front-End Developer </h3>
+<!-- # Hi 👋  I'm  Nouhaila Moussammi 
+## I'm a PhD Researcher in Mobile Edge Computing and Front-End Developer !! -->
 ![nmoussam's 42 stats](https://badge.mediaplus.ma/kettlebells/nmoussam)
 
 <br>
 ┌──┤ WHOAMI ├─────────▰▰▰<br>
-│ <br>
+ │ <br>
 ├─▣ Computer Science student at  <a href="https://www.1337.ma">1337</a><br>
 ├─▣ PhD student at  <a href="http://www.fsr.ac.ma/">FSR</a><br>
 ├─▣ Master's degree <a href="http://ensias.um5.ac.ma/">ENSIAS</a><br>
