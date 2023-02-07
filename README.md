@@ -7,17 +7,18 @@
 <h3 align="center">A PhD Researcher in Mobile Edge Computing and Front-End Developer </h3>
 <!-- # Hi 👋  I'm  Nouhaila Moussammi 
 ## I'm a PhD Researcher in Mobile Edge Computing and Front-End Developer !! -->
+
 ![nmoussam's 42 stats](https://badge.mediaplus.ma/kettlebells/nmoussam)
 
 <br>
 ┌──┤ WHOAMI ├─────────▰▰▰<br>
- │ <br>
-├─▣ Computer Science student at  <a href="https://www.1337.ma">1337</a><br>
-├─▣ PhD student at  <a href="http://www.fsr.ac.ma/">FSR</a><br>
-├─▣ Master's degree <a href="http://ensias.um5.ac.ma/">ENSIAS</a><br>
-├─▣ Interested in Cloud Computing, Devops, Web Development. <br>
-├─▣ From Casablanca Morocco <br>
-│<br>
+<br>
+─▣ Student at  <a href="https://www.1337.ma">1337</a><br>
+─▣ PhD Student at  <a href="http://www.fsr.ac.ma/">FSR</a><br>
+─▣ Master's degree (CLOUDHPC) <a href="http://ensias.um5.ac.ma/">ENSIAS</a><br>
+─▣ Interested in Cloud Computing, Devops, Web Development. <br>
+─▣ From Casablanca, Morocco <br>
+<br>
 └───────────────────────────────▰▰▰
 
 
