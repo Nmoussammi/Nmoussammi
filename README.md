@@ -12,7 +12,7 @@
 
 <img align="right" alt="logo" width="400" src="https://badge.mediaplus.ma/blue/nmoussam"><br>
 <br>
-┌──┤ WHOAMI ├─────────▰▰▰<br>
+┌──┤ About Me ├─────────▰▰▰<br>
 <br>
 ─▣ Student at  <a href="https://www.1337.ma">1337</a><br>
 ─▣ PhD Student at  <a href="http://www.fsr.ac.ma/">FSR</a><br>
@@ -28,7 +28,7 @@
 ─◈ <a href="https://www.instagram.com/nouhaila.moussammi">Instagram</a><br>
 ─◈ Discord: nmoussam#7557
 
-┌──┤ PROJECTS 42├───────▰▰▰<br>
+┌──┤ Project 42├───────▰▰▰<br>
 
 ─◈ <a href="https://github.com/Nmoussammi/Libft">Libft</a><br>
 ─◈ <a href="https://github.com/Nmoussammi/Get_Next_Line">Get_next_line</a><br>
@@ -44,7 +44,7 @@
 
 <br>
 
-┌──┤ MY PROJECTS├───────▰▰▰<br>
+┌──┤ My Projects├───────▰▰▰<br>
 
 ─◈ <a href="https://github.com/Nmoussammi/Portfolio">Portfolio</a><br>
 ─◈ <a href="https://github.com/Nmoussammi/Simple-Website-Design">Simple Website Design</a><br>
