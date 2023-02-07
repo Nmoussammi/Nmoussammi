@@ -33,7 +33,7 @@
 ─◈ <a href="https://github.com/Nmoussammi/Libft">Libft</a><br>
 ─◈ <a href="https://github.com/Nmoussammi/Get_Next_Line">Get_next_line</a><br>
 ─◈ <a href="https://github.com/Nmoussammi/ft_printf">Ft_printf</a><br>
-├─◈ <a href="https://github.com/achrafelkhnissi/1337/tree/master/42curses/Born2beRoot">Born2beRoot</a>
+─◈ <a href="https://github.com/Nmoussammi/Born2beRoot">Born2beRoot</a><br>
 ─◈ <a href="https://github.com/Nmoussammi/minitalk">Minitalk</a><br>
 ─◈ <a href="https://github.com/Nmoussammi/so_long">So_long</a><br>
 ─◈ <a href="https://github.com/Nmoussammi/Push_swap">Push_swap</a><br>
