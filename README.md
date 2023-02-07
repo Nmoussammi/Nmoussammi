@@ -72,6 +72,7 @@
 --------------
 ### Languages and Tools:
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nmoussammi&show_icons=true&locale=en&layout=compact" alt="nmoussammi" /></p>
 
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
@@ -80,7 +81,6 @@
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nmoussammi&show_icons=true&locale=en&layout=compact" alt="nmoussammi" /></p>
 
 
 <br/>
@@ -89,6 +89,8 @@
 	<img alt="Nmoussammi's followers" src="https://img.shields.io/github/followers/Nmoussammi?color=blueviolet" />
 	<img alt="Nmoussammi's stars" src="https://img.shields.io/github/stars/Nmoussammi?color=blueviolet" />
 </p>
+
+
 ---------------
 | [![Nmoussammi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nmoussammi&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=jolly)](https://github.com/Nmoussammi?tab=repositories) | [![Nmoussammi's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nmoussammi&layout=compact&hide_border=true&theme=jolly)](https://github.com/Nmoussammi?tab=repositories) |
 |:-:|:-:|
