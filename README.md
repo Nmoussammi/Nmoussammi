@@ -72,11 +72,6 @@
 --------------
 ### Languages and Tools:
 
-<p align="right">
-	<img alt="Nmoussammi's visitors" src="https://komarev.com/ghpvc/?username=Nmoussammi&color=8c36db&style=flat&label=visitors" />
-	<img alt="Nmoussammi's followers" src="https://img.shields.io/github/followers/Nmoussammi?color=blueviolet" />
-	<img alt="Nmoussammi's stars" src="https://img.shields.io/github/stars/Nmoussammi?color=blueviolet" />
-</p>
 
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;"/>
@@ -84,6 +79,13 @@
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
+
+<br/>
+<p align="left">
+	<img alt="Nmoussammi's visitors" src="https://komarev.com/ghpvc/?username=Nmoussammi&color=8c36db&style=flat&label=visitors" />
+	<img alt="Nmoussammi's followers" src="https://img.shields.io/github/followers/Nmoussammi?color=blueviolet" />
+	<img alt="Nmoussammi's stars" src="https://img.shields.io/github/stars/Nmoussammi?color=blueviolet" />
+</p>
 
 
 
