@@ -10,6 +10,7 @@
 
 ![nmoussam's 42 stats](https://badge.mediaplus.ma/kettlebells/nmoussam)
 
+<img align="right" alt="logo" width="400" src="https://badge.mediaplus.ma/kettlebells/nmoussam"><br>
 <br>
 ┌──┤ WHOAMI ├─────────▰▰▰<br>
 <br>
