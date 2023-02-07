@@ -49,7 +49,6 @@
 ─◈ <a href="https://github.com/Nmoussammi/Portfolio">Portfolio</a><br>
 ─◈ <a href="https://github.com/Nmoussammi/Simple-Website-Design">Simple Website Design</a><br>
 ─◈ <a href="https://github.com/Nmoussammi/nft-card-component">Nft Card Component</a> <br>
-<!-- add MEC Projects-->
 └───────────────────────────────▰▰▰
 <br>
 
