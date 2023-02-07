@@ -3,7 +3,7 @@
 <br> -->
 <img align="center" alt="logo" width="1000" src="https://github.com/Nmoussammi/Nmoussammi/blob/main/Untitled%20design.gif"><br>
 
-<h1 align="center">Hi 👋 I'm  Nouhaila Moussammi </h1>
+<h1 align="center">Hi 👋 I'm MOUSSAMMI Nouhaila</h1>
 <h3 align="center">A PhD Researcher in Mobile Edge Computing and Front-End Developer </h3>
 <!-- # Hi 👋  I'm  Nouhaila Moussammi 
 ## I'm a PhD Researcher in Mobile Edge Computing and Front-End Developer !! -->
