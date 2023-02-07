@@ -73,7 +73,7 @@
 ### Languages and Tools:
 <br>
 
-<p align="center">
+<p align="right">
 	<img alt="Nmoussammi's visitors" src="https://komarev.com/ghpvc/?username=Nmoussammi&color=8c36db&style=flat&label=visitors" />
 	<img alt="Nmoussammi's followers" src="https://img.shields.io/github/followers/Nmoussammi?color=blueviolet" />
 	<img alt="Nmoussammi's stars" src="https://img.shields.io/github/stars/Nmoussammi?color=blueviolet" />
