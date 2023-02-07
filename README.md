@@ -29,7 +29,7 @@
 ─◈ Discord: nmoussam#7557
 
 ┌──┤ PROJECTS 42├───────▰▰▰<br>
-<br>
+
 ─◈ <a href="https://github.com/Nmoussammi/Libft">Libft</a><br>
 ─◈ <a href="https://github.com/Nmoussammi/Get_Next_Line">Get_next_line</a><br>
 ─◈ <a href="https://github.com/Nmoussammi/ft_printf">Ft_printf</a><br>
@@ -41,9 +41,11 @@
 ─◈ <a href="https://github.com/Nmoussammi/Minishell">Minishell</a><br>
 ─◈ <a href="https://github.com/Nmoussammi/Cub3d">Cub3d</a><br>
 └───────────────────────────────▰▰▰
+
 <br>
+
 ┌──┤ MY PROJECTS├───────▰▰▰<br>
-<br>
+
 ─◈ <a href="https://github.com/Nmoussammi/Portfolio">Portfolio</a><br>
 ─◈ <a href="https://github.com/Nmoussammi/Simple-Website-Design">Simple Website Design</a><br>
 ─◈ <a href="https://github.com/Nmoussammi/nft-card-component">Nft Card Component</a> <br>
