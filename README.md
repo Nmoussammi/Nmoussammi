@@ -75,8 +75,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nmoussammi&show_icons=true&locale=en&layout=compact" alt="nmoussammi" /></p>
 
 <br>
-<br>
-
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
