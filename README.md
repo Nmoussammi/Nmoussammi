@@ -1,10 +1,10 @@
 # Hi there, I'm  Nouhaila Moussammi 👋 
-## I'm a PhD student, and Developer !!
+## I'm a PhD student, and Front-End Developer !!
 
 <!-- - 🌱 I’m currently learning everything 
 - 🥅 2022 Goals: Learn more about web3 
 <br> -->
-
+<img align="center" alt="coding" width="400" src="https://github.com/Nmoussammi/Nmoussammi/blob/main/Untitled%20design.gif">
 ![nmoussam's 42 stats](https://badge.mediaplus.ma/kettlebells/nmoussam)
 
 <br>
