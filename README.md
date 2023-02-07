@@ -71,7 +71,6 @@
 
 --------------
 ### Languages and Tools:
-<br>
 
 <p align="right">
 	<img alt="Nmoussammi's visitors" src="https://komarev.com/ghpvc/?username=Nmoussammi&color=8c36db&style=flat&label=visitors" />
