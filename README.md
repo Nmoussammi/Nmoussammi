@@ -4,7 +4,7 @@
 <!-- - 🌱 I’m currently learning everything 
 - 🥅 2022 Goals: Learn more about web3 
 <br> -->
-<img align="center" alt="logo" width="800" src="https://github.com/Nmoussammi/Nmoussammi/blob/main/Untitled%20design.gif"><br>
+<img align="center" alt="logo" width="1000" src="https://github.com/Nmoussammi/Nmoussammi/blob/main/Untitled%20design.gif"><br>
 ![nmoussam's 42 stats](https://badge.mediaplus.ma/kettlebells/nmoussam)
 
 <br>
