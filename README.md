@@ -72,8 +72,9 @@
 --------------
 ### Languages and Tools:
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nmoussammi&show_icons=true&locale=en&layout=compact" alt="nmoussammi" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nmoussammi&show_icons=true&locale=en&layout=compact" alt="nmoussammi" />
 <br>
+
 <p align="center">
 	<img alt="Nmoussammi's visitors" src="https://komarev.com/ghpvc/?username=Nmoussammi&color=8c36db&style=flat&label=visitors" />
 	<img alt="Nmoussammi's followers" src="https://img.shields.io/github/followers/Nmoussammi?color=blueviolet" />
