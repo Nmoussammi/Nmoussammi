@@ -72,7 +72,7 @@
 --------------
 ### Languages and Tools:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nmoussammi&show_icons=true&locale=en&layout=compact" alt="nmoussammi" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nmoussammi&show_icons=true&locale=en&layout=compact" alt="nmoussammi" /></p>
 
 <br>
 <br>
