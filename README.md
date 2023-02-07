@@ -40,7 +40,6 @@
 ─◈ <a href="https://github.com/Nmoussammi/Philosopher">Philosopher</a><br>
 ─◈ <a href="https://github.com/Nmoussammi/Minishell">Minishell</a><br>
 ─◈ <a href="https://github.com/Nmoussammi/Cub3d">Cub3d</a><br>
-<br>
 └───────────────────────────────▰▰▰
 <br>
 ┌──┤ MY PROJECTS├───────▰▰▰<br>
@@ -49,7 +48,6 @@
 ─◈ <a href="https://github.com/Nmoussammi/Simple-Website-Design">Simple Website Design</a><br>
 ─◈ <a href="https://github.com/Nmoussammi/nft-card-component">Nft Card Component</a> <br>
 <!-- add MEC Projects-->
-<br>
 └───────────────────────────────▰▰▰
 <br>
 
